@@ -7,7 +7,14 @@
 </p>
 
 
----
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
+    alt="Animated Rainbow Separator"
+    style="width:100%; max-width:600px;"
+  />
+</p>
+
 
 ### 🔥 About Me
 - 🎯 4th‑sem Software Engineering Student  
@@ -34,13 +41,26 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
+    alt="Animated Rainbow Separator"
+    style="width:100%; max-width:600px;"
+  />
+</p>
+
 
 ### ⚡ Fun Fact  
 I’m coming to my **teen** years — #LevelUp 🚀
 
----
----
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
+    alt="Animated Rainbow Separator"
+    style="width:100%; max-width:600px;"
+  />
+</p>
+
 
 <p align="center">
   <!-- Glowing “Keep Coding” badge via Shields.io -->
@@ -50,8 +70,6 @@ I’m coming to my **teen** years — #LevelUp 🚀
   />
 </p>
 
-<!-- LottieFiles Web Component (add once per page) -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 <p align="center">
   <!-- Centered Lottie animation of a boy coding! -->
@@ -67,11 +85,17 @@ I’m coming to my **teen** years — #LevelUp 🚀
 
 <p align="center">
   <!-- Confetti GIFs on either side for extra festivity -->
-  <img src="https://media.giphy.com/media/3o6ZsYn6cs5If0JQis/giphy.gif" width="80px" alt="🎉"/>
   <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="80px" alt="🎉"/>
 </p>
 
----
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
+    alt="Animated Rainbow Separator"
+    style="width:100%; max-width:600px;"
+  />
+</p>
+
 
 <p align="center">Thanks for dropping by—happy coding! 👨‍💻</p>
 
