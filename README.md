@@ -1,25 +1,4 @@
 <h1 align="center">Hi, I'm Salman Khan</h1>
-<p align="center">
-  <img 
-    src="data:image/svg+xml;utf8,
-    <svg xmlns='http://www.w3.org/2000/svg' width='800' height='6'>
-      <defs>
-        <linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'>
-          <stop offset='0%' stop-color='%23ff7e5f'>
-            <animate attributeName='stop-color' values='%23ff7e5f;%23feb47b;%23ff7e5f' dur='3s' repeatCount='indefinite'/>
-          </stop>
-          <stop offset='100%' stop-color='%23feb47b'>
-            <animate attributeName='stop-color' values='%23feb47b;%23ff7e5f;%23feb47b' dur='3s' repeatCount='indefinite'/>
-          </stop>
-        </linearGradient>
-      </defs>
-      <rect width='800' height='6' fill='url(%23grad)'/>
-    </svg>"
-    alt="gradient splitter"
-
-  />
-</p>
-
 
 <p align="center">
   <a href="https://youtu.be/your-demo-video">
@@ -33,7 +12,7 @@
 ### 🔥 About Me
 - 🎯 4th‑sem Software Engineering Student  
 - 👨‍💻 Building cool stuff in **C#**, digging into **backend**  
-- 🤓 Lifelong learner—coding, Secure Web devlopment  
+- 🤓 Lifelong learner,  Secure Web devlopment   
 
 <p align="center"> 
   <a href="https://github-readme-stats.vercel.app/api?username=Salman-Sensei&show_icons=true&theme=dark">
@@ -61,5 +40,40 @@
 I’m coming to my **teen** years — #LevelUp 🚀
 
 ---
+---
+
+<p align="center">
+  <!-- Glowing “Keep Coding” badge via Shields.io -->
+  <img
+    src="https://img.shields.io/badge/🚀_Keep_Coding_🚀-Never_Stop!-brightgreen?style=for-the-badge&animation=glow"
+    alt="Keep Coding badge"
+  />
+</p>
+
+<!-- LottieFiles Web Component (add once per page) -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<p align="center">
+  <!-- Centered Lottie animation of a boy coding! -->
+  <lottie-player
+    src="https://assets2.lottiefiles.com/packages/lf20_UWmN7VzPet.json"
+    background="transparent"
+    speed="1"
+    style="width:400px; height:400px;"
+    loop
+    autoplay
+  ></lottie-player>
+</p>
+
+<p align="center">
+  <!-- Confetti GIFs on either side for extra festivity -->
+  <img src="https://media.giphy.com/media/3o6ZsYn6cs5If0JQis/giphy.gif" width="80px" alt="🎉"/>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="80px" alt="🎉"/>
+</p>
+
+---
+
+<p align="center">Thanks for dropping by—happy coding! 👨‍💻</p>
+
 
 
