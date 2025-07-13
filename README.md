@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Salman Khan</h1>
 
 
-
+<p align="center">
+  <a href="https://youtu.be/your-demo-video">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlubmE4ZXNscDJnenY3cXRrZjA4YXZheng2eTc0ZmgwOWF1YmtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Animated Demo" width="300"/>
+  </a>
+</p>
 
 
 ---
