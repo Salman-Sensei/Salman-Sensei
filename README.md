@@ -6,20 +6,35 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
-    alt="Animated Rainbow Separator"
-    style="width:100%; max-width:600px;"
-  />
+  <svg
+    width="600px"
+    height="6px"
+    viewBox="0 0 100 1"
+    preserveAspectRatio="none"
+  >
+    <defs>
+      <linearGradient id="shiny">
+        <stop offset="0%" stop-color="#ff0044">
+          <animate attributeName="stop-color"
+                   values="#ff0044;#44ff00;#0044ff;#ff0044"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0044ff">
+          <animate attributeName="stop-color"
+                   values="#0044ff;#ff0044;#44ff00;#0044ff"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="1" fill="url(#shiny)" />
+  </svg>
 </p>
-
 
 ### 🔥 About Me
 - 🎯 4th‑sem Software Engineering Student  
 - 👨‍💻 Building cool stuff in **C#**, digging into **backend**  
-- 🤓 Lifelong learner,  Secure Web devlopment   
+- 🤓 Lifelong learner, Secure Web development  
 
 <p align="center"> 
   <a href="https://github-readme-stats.vercel.app/api?username=Salman-Sensei&show_icons=true&theme=dark">
@@ -42,25 +57,57 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
-    alt="Animated Rainbow Separator"
-    style="width:100%; max-width:600px;"
-  />
+  <svg
+    width="600px"
+    height="6px"
+    viewBox="0 0 100 1"
+    preserveAspectRatio="none"
+  >
+    <defs>
+      <linearGradient id="shiny2">
+        <stop offset="0%" stop-color="#ff0044">
+          <animate attributeName="stop-color"
+                   values="#ff0044;#44ff00;#0044ff;#ff0044"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0044ff">
+          <animate attributeName="stop-color"
+                   values="#0044ff;#ff0044;#44ff00;#0044ff"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="1" fill="url(#shiny2)" />
+  </svg>
 </p>
-
 
 ### ⚡ Fun Fact  
 I’m coming to my **teen** years — #LevelUp 🚀
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
-    alt="Animated Rainbow Separator"
-    style="width:100%; max-width:600px;"
-  />
+  <svg
+    width="600px"
+    height="6px"
+    viewBox="0 0 100 1"
+    preserveAspectRatio="none"
+  >
+    <defs>
+      <linearGradient id="shiny3">
+        <stop offset="0%" stop-color="#ff0044">
+          <animate attributeName="stop-color"
+                   values="#ff0044;#44ff00;#0044ff;#ff0044"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0044ff">
+          <animate attributeName="stop-color"
+                   values="#0044ff;#ff0044;#44ff00;#0044ff"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="1" fill="url(#shiny3)" />
+  </svg>
 </p>
-
 
 <p align="center">
   <!-- Glowing “Keep Coding” badge via Shields.io -->
@@ -70,9 +117,9 @@ I’m coming to my **teen** years — #LevelUp 🚀
   />
 </p>
 
-
 <p align="center">
   <!-- Centered Lottie animation of a boy coding! -->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   <lottie-player
     src="https://assets2.lottiefiles.com/packages/lf20_UWmN7VzPet.json"
     background="transparent"
@@ -89,15 +136,28 @@ I’m coming to my **teen** years — #LevelUp 🚀
 </p>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/LwIyvaNcnjspi/giphy.gif"
-    alt="Animated Rainbow Separator"
-    style="width:100%; max-width:600px;"
-  />
+  <svg
+    width="600px"
+    height="6px"
+    viewBox="0 0 100 1"
+    preserveAspectRatio="none"
+  >
+    <defs>
+      <linearGradient id="shiny4">
+        <stop offset="0%" stop-color="#ff0044">
+          <animate attributeName="stop-color"
+                   values="#ff0044;#44ff00;#0044ff;#ff0044"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#0044ff">
+          <animate attributeName="stop-color"
+                   values="#0044ff;#ff0044;#44ff00;#0044ff"
+                   dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="1" fill="url(#shiny4)" />
+  </svg>
 </p>
 
-
 <p align="center">Thanks for dropping by—happy coding! 👨‍💻</p>
-
-
-
