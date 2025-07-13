@@ -2,13 +2,11 @@
 
 <p align="center">
   <a href="https://youtu.be/your-demo-video">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Animated Demo" width="600"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlubmE4ZXNscDJnenY3cXRrZjA4YXZheng2eTc0ZmgwOWF1YmtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" alt="Animated Demo" width="600"/>
   </a>
 </p>
 
-<p align="center">
-  🌈 🌈 🌈 🌈 🌈 🌈 🌈 🌈 🌈 🌈
-</p>
+
 
 ---
 
