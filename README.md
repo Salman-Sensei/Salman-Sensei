@@ -16,7 +16,7 @@
       <rect width='800' height='6' fill='url(%23grad)'/>
     </svg>"
     alt="gradient splitter"
-    style="max-width:100%; height:auto;"
+
   />
 </p>
 
