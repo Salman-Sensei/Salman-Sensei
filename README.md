@@ -107,47 +107,10 @@
 </p>
 
 ### ⚡ Fun Fact  
-I’m coming to my **teen** years — #LevelUp 🚀
+I’m in  my **teen** years  #LevelUp 🚀
 
-<p align="center">
-  <svg
-    width="600px"
-    height="6px"
-    viewBox="0 0 100 1"
-    preserveAspectRatio="none"
-  >
-    <defs>
-      <linearGradient id="shiny3">
-        <stop offset="0%" stop-color="#ff0044">
-          <animate
-            attributeName="stop-color"
-            values="#ff0044;#44ff00;#0044ff;#ff0044"
-            dur="3s"
-            repeatCount="indefinite"
-          />
-        </stop>
-        <stop offset="100%" stop-color="#0044ff">
-          <animate
-            attributeName="stop-color"
-            values="#0044ff;#ff0044;#44ff00;#0044ff"
-            dur="3s"
-            repeatCount="indefinite"
-          />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="1" fill="url(#shiny3)" />
-  </svg>
-</p>
 
-<p align="center">
-  <!-- Direct GIF export of the “boy coding” -->
-  <img
-    src="https://assets2.lottiefiles.com/private_files/lf30_jmgekfqf.gif"
-    alt="Boy Coding Animation"
-    width="600"
-  />
-</p>
+
 
 <p align="center">
   <!-- Confetti -->
@@ -189,4 +152,4 @@ I’m coming to my **teen** years — #LevelUp 🚀
   </svg>
 </p>
 
-<p align="center">Thanks for dropping by—happy coding! 👨‍💻</p>
+<p align="center">Thanks for dropping by happy coding! 👨‍💻</p>
