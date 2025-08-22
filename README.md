@@ -41,30 +41,11 @@
   </svg>
 </p>
 
-### 🔥 About Me
-- 🎯 4th‑sem Software Engineering Student  
-- 👨‍💻 Building cool stuff in **C#**, digging into **backend**  
-- 🤓 Lifelong learner, Secure Web development  
 
-<p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api?username=Salman-Sensei&show_icons=true&theme=dark">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Salman-Sensei&show_icons=true&theme=dark"
-      alt="Salman’s GitHub Stats"
-    />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salmankhan-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skbkhan31@gmail.com) 
 
-<p align="center"> 
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Sensei&theme=dark">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Sensei&theme=dark"
-      alt="Top Languages"
-    />
-  </a>
-</p>
-
-<br>
+# 💻 Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -105,12 +86,20 @@
     <rect width="100%" height="1" fill="url(#shiny2)" />
   </svg>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Salman-Sensei&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Salman-Sensei&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Sensei&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ⚡ Fun Fact  
-I’m in  my **teen** years  #LevelUp 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=Salman-Sensei&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+###  About Me
+- 🎯 4th‑sem Software Engineering Student aspiring to be  Secure Web developer  
+<br>
 
 <p align="center">
   <!-- Confetti -->
